@@ -60,7 +60,7 @@ const NavBarBeta = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex justify-between items-center py-6 md:justify-start md:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
-              <a href="https://powerstreetpro.markets">
+              <a href="https://powerstreetpro.com">
                 <span className="sr-only">Powerstreetpro</span>
                 <img
                   className="h-8"
@@ -129,7 +129,7 @@ const NavBarBeta = () => {
                         Markets
                       </h3>
                       <a
-                        href="https://trade.powerstreetpro.markets/"
+                        href="https://trade.powerstreetpro.com/"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -161,7 +161,7 @@ const NavBarBeta = () => {
                       </a>
 
                       <a
-                        href="https://trade.powerstreetpro.markets/perp/BTC"
+                        href="https://trade.powerstreetpro.com/perp/BTC"
                         className="disabled -m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -195,7 +195,7 @@ const NavBarBeta = () => {
                         Defi
                       </h3>
                       <a
-                        href="https://trade.powerstreetpro.markets/borrow"
+                        href="https://trade.powerstreetpro.com/borrow"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -498,7 +498,7 @@ const NavBarBeta = () => {
                         </div>
                       </a>
                       <a
-                        href="https://forum.powerstreetpro.markets/"
+                        href="https://forum.powerstreetpro.com/"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -529,7 +529,7 @@ const NavBarBeta = () => {
                         </div>
                       </a>
                       <a
-                        href="https://token.powerstreetpro.markets"
+                        href="https://token.powerstreetpro.com"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -566,7 +566,7 @@ const NavBarBeta = () => {
 
               {/* 
               <a
-                href="https://docs.powerstreetpro.markets/"
+                href="https://docs.powerstreetpro.com/"
                 className="text-base font-medium text-gray-500 p-1 px-2 hover:bg-th-fgd-4 hover:text-white focus:outline-none rounded-md"
               >
                 Docs
@@ -668,7 +668,7 @@ const NavBarBeta = () => {
                         <ul className="mt-4 space-y-4">
                           <li className="text-base truncate">
                             <a
-                              href="https://docs.powerstreetpro.markets/tutorials/creating-a-wallet"
+                              href="https://docs.powerstreetpro.com/tutorials/creating-a-wallet"
                               className="font-medium text-white hover:text-gray-400 transition duration-100 ease-in-out"
                             >
                               Setting up a wallet
@@ -677,7 +677,7 @@ const NavBarBeta = () => {
 
                           <li className="text-base truncate">
                             <a
-                              href="https://docs.powerstreetpro.markets/tutorials/getting-started"
+                              href="https://docs.powerstreetpro.com/tutorials/getting-started"
                               className="font-medium text-white hover:text-gray-400 transition duration-100 ease-in-out"
                             >
                               Getting started with Powerstreetpro
@@ -687,7 +687,7 @@ const NavBarBeta = () => {
                       </div>
                       <div className="mt-5 text-sm">
                         <a
-                          href="https://docs.powerstreetpro.markets/margin-trading/overview"
+                          href="https://docs.powerstreetpro.com/margin-trading/overview"
                           className="font-bold text-transparent bg-clip-text  bg-powerstreetpro-olive hover:bg-powerstreetpro-blue-gray  transition duration-100 ease-in-out"
                         >
                           {' '}
@@ -701,7 +701,7 @@ const NavBarBeta = () => {
               </div>
               {/* 
               <a
-                href="https://dao.powerstreetpro.markets"
+                href="https://dao.powerstreetpro.com"
                 className="text-base font-medium text-gray-500 p-1 px-2 hover:bg-th-fgd-4 focus:outline-none rounded-md"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -712,7 +712,7 @@ const NavBarBeta = () => {
               </a>
 
               <a
-                href="https://token.powerstreetpro.markets"
+                href="https://token.powerstreetpro.com"
                 className="text-base font-medium text-gray-500 p-1 px-2 hover:bg-th-fgd-4 focus:outline-none rounded-md"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -728,7 +728,7 @@ const NavBarBeta = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.powerstreetpro.markets"
+                  href="https://trade.powerstreetpro.com"
                 >
                   <Button>Start trading</Button>
                 </a>

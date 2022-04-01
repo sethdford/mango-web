@@ -61,7 +61,7 @@ const FeatureSection = () => {
                           <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://trade.powerstreetpro.markets/accounts"
+                            href="https://trade.powerstreetpro.com/accounts"
                           >
                             <Button>Start trading today</Button>
                           </a>
@@ -196,7 +196,7 @@ const FeatureSection = () => {
                       <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://trade.powerstreetpro.markets/accounts"
+                        href="https://trade.powerstreetpro.com/accounts"
                       >
                         <Button>Open an account</Button>
                       </a>

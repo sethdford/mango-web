@@ -62,7 +62,7 @@ const LendSection = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.powerstreetpro.markets/borrow"
+                  href="https://trade.powerstreetpro.com/borrow"
                 >
                   <Button>Open an Account</Button>
                 </a>

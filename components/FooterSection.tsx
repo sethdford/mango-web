@@ -43,7 +43,7 @@ const FooterSection = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.powerstreetpro.markets/market?name=BTC-PERP"
+                  href="https://trade.powerstreetpro.com/market?name=BTC-PERP"
                 >
                   <ButtonWhite>Start trading now</ButtonWhite>
                 </a>
@@ -144,7 +144,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://trade.powerstreetpro.markets/"
+                            href="https://trade.powerstreetpro.com/"
                           >
                             Spot Markets
                           </a>
@@ -152,7 +152,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://trade.powerstreetpro.markets/perp/BTC"
+                            href="https://trade.powerstreetpro.com/perp/BTC"
                           >
                             Perpetual Futures
                           </a>
@@ -160,7 +160,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://trade.powerstreetpro.markets/borrow"
+                            href="https://trade.powerstreetpro.com/borrow"
                           >
                             Decentralized Lending
                           </a>
@@ -183,7 +183,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://docs.powerstreetpro.markets/"
+                            href="https://docs.powerstreetpro.com/"
                           >
                             Explore the docs
                           </a>

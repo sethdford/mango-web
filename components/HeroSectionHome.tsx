@@ -58,14 +58,14 @@ const HeroSectionHome = () => {
                       <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://trade.powerstreetpro.markets"
+                        href="https://trade.powerstreetpro.com"
                       >
                         <Button>Start trading</Button>
                       </a>
                       <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://docs.powerstreetpro.markets/"
+                        href="https://docs.powerstreetpro.com/"
                       >
                         <Link>Explore the docs</Link>
                       </a>

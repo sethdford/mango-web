@@ -258,7 +258,7 @@ const CommunitySection = () => {
                   <a
                     rel="noreferrer"
                     target="_blank"
-                    href="https://docs.powerstreetpro.markets/litepaper"
+                    href="https://docs.powerstreetpro.com/litepaper"
                   >
                     <Link>Learn more</Link>
                   </a>

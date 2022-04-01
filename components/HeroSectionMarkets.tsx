@@ -24,14 +24,14 @@ const HeroSectionMarkets = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.powerstreetpro.markets"
+                  href="https://trade.powerstreetpro.com"
                 >
                   <Button>Start trading</Button>
                 </a>
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://docs.powerstreetpro.markets/tutorials/trade-on-powerstreetpro.markets"
+                  href="https://docs.powerstreetpro.com/tutorials/trade-on-powerstreetpro.com"
                 >
                   <div className="xs:relative mt-2 sm:mt-0 left-12 sm:left-0">
                     <Link>Learn how to trade on Powerstreetpro</Link>

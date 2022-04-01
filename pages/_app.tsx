@@ -33,7 +33,7 @@ function App({ Component, pageProps }) {
         <meta name="twitter:description" content={description} />
         <meta
           name="twitter:image"
-          content="https://www.powerstreetpro.markets/socials/twitter-image-1200x600.png?34567878"
+          content="https://www.powerstreetpro.com/socials/twitter-image-1200x600.png?34567878"
         />
 
         <link rel="manifest" href="/manifest.json"></link>

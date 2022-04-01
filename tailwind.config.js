@@ -65,9 +65,9 @@ module.exports = {
         help: 'help',
       },
       colors: {
-        primary: { light: '#F2C94C', dark: '#EEB91B' },
+        primary: { light: '#1B6094', dark: '#194C78' },
         'secondary-1': { light: '#AFD803', dark: '#6CBF00' },
-        'secondary-2': { light: '#E54033', dark: '#C7251A' },
+        'secondary-2': { light: '#AFD803', dark: '#6CBF00' },
         'secondary-3': { light: '#026DF7', dark: '#0259CA' },
         'secondary-4': { light: '#262145', dark: '#1B1735' },
         'bkg-1': '#141125',
@@ -78,6 +78,41 @@ module.exports = {
         'fgd-2': '#FCFCFF',
         'fgd-3': '#B9B5CE',
         'fgd-4': '#706C81',
+
+        'powerstreetpro-green': {
+          DEFAULT: '#AFD803',
+          dark: '#6CBF00',
+        },
+        'powerstreetpro-blue': '#1B6094',
+        'powerstreetpro-blue-gray': '#7A9FA1',
+        'powerstreetpro-olive': '#BAC47A',
+        'powerstreetpro-orange': '#F7901E',
+        'powerstreetpro-yellow': '#D3D859',
+        'powerstreetpro-red': '#B50000',
+        'powerstreetpro-green': '#2C8801',
+        'powerstreetpro-dark': {
+          lighter: '#332F46',
+          light: '#262337',
+          DEFAULT: '#141026',
+        },
+        'powerstreetpro-med': {
+          light: '#C2BDD9',
+          DEFAULT: '#9490A6',
+          dark: '#706C81',
+        },
+        'powerstreetpro-light': {
+          light: '#FCFCFF',
+          DEFAULT: '#F0EDFF',
+          dark: '#B9B5CE',
+        },
+        'powerstreetpro-grey': {
+          lighter: '#f7f7f7',
+          light: '#e6e6e6',
+          dark: '#092e34',
+          darker: '#072428',
+          darkest: '#061f23',
+        },
+
         'mango-orange': {
           DEFAULT: '#DFAB01',
           dark: '#CB9C01',

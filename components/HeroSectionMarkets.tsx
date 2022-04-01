@@ -11,11 +11,12 @@ const HeroSectionMarkets = () => {
           <div className="relative py-24 mb-56">
             <div className="max-w-4xl mb-16 mx-auto text-center">
               <h2 className="mb-3 lg:text-5xl sm:text-4xl text-3xl text-white font-bold font-heading">
-                Trading &amp; lending <GradientText>Mangofied.</GradientText>
+                Trading &amp; lending{' '}
+                <GradientText>Powerstreetpro fied.</GradientText>
               </h2>
               <p className="text-gray-400 sm:px-0 px-2 lg:text-2xl sm:text-xl text-lg">
-                Mango provides markets with deep&nbsp;liquidity, spot margin,
-                leveraged derivatives, and risk management tools
+                Powerstreetpro provides markets with deep&nbsp;liquidity, spot
+                margin, leveraged derivatives, and risk management tools
                 for&nbsp;traders all while earning interest on collateral.
               </p>
               {/*
@@ -23,17 +24,17 @@ const HeroSectionMarkets = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.mango.markets"
+                  href="https://trade.powerstreetpro.markets"
                 >
                   <Button>Start trading</Button>
                 </a>
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://docs.mango.markets/tutorials/trade-on-mango.markets"
+                  href="https://docs.powerstreetpro.markets/tutorials/trade-on-powerstreetpro.markets"
                 >
                   <div className="xs:relative mt-2 sm:mt-0 left-12 sm:left-0">
-                    <Link>Learn how to trade on Mango</Link>
+                    <Link>Learn how to trade on Powerstreetpro</Link>
                   </div>
                 </a>
               </div>
@@ -50,7 +51,7 @@ const HeroSectionMarkets = () => {
                 Simple, intuitive, and fast.{' '}
               </h2>
               <p className="mb-8 text-gray-400 leading-relaxed">
-                The Mango margin protocol is a fully open-source margin trading
+                The Powerstreetpro margin protocol is a fully open-source margin trading
                 exchange. Its best in class user interface provides access to
                 deep liquidity and high leverage for traders, built by traders.{' '}
               </p>

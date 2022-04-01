@@ -100,7 +100,7 @@ const FourOhfour = () => {
         <div className="flex-shrink-0 pt-16">
           <img
             className="mx-auto h-12 w-auto"
-            src="../img/logo_mango.svg"
+            src="../img/logo_powerstreetpro.svg"
             alt="Workflow"
           />
         </div>
@@ -132,7 +132,7 @@ const FourOhfour = () => {
                   <div className="flex-shrink-0">
                     <span className="flex items-center justify-center h-12 w-12 rounded-lg bg-indigo-50">
                       <link.icon
-                        className="h-6 w-6 text-mango-yellow"
+                        className="h-6 w-6 text-powerstreetpro-green"
                         aria-hidden="true"
                       />
                     </span>
@@ -155,7 +155,7 @@ const FourOhfour = () => {
                   </div>
                   <div className="flex-shrink-0 self-center">
                     <ChevronRightIcon
-                      className="h-5 w-5 text-mango-yellow"
+                      className="h-5 w-5 text-powerstreetpro-green"
                       aria-hidden="true"
                     />
                   </div>
@@ -165,7 +165,7 @@ const FourOhfour = () => {
             <div className="mt-8">
               <a
                 href="#"
-                className="text-base font-medium text-mango-orange hover:text-mango-yellow"
+                className="text-base font-medium text-mango-orange hover:text-powerstreetpro-green"
               >
                 Or go back home<span aria-hidden="true"> &rarr;</span>
               </a>

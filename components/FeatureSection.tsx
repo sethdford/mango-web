@@ -13,7 +13,7 @@ const features = [
   {
     name: 'Maximum capital efficiency.',
     description:
-      "Every market is cross-collateralized. Mango's risk engine let's you utilize all your assets and derivative contracts as collateral.",
+      "Every market is cross-collateralized. Powerstreetpro's risk engine let's you utilize all your assets and derivative contracts as collateral.",
     icon: CurrencyDollarIcon,
   },
   {
@@ -25,7 +25,7 @@ const features = [
   {
     name: 'The lowest fees.',
     description:
-      'Trade with the lowest fee possible. SRM deposits are pooled for a collective discount. Mango is the first protocol to charge zero fees on margin borrowing & lending.',
+      'Trade with the lowest fee possible. SRM deposits are pooled for a collective discount. PowerstreetPro is the first protocol to charge zero fees on margin borrowing & lending.',
     icon: ReceiptTaxIcon,
   },
   {
@@ -61,7 +61,7 @@ const FeatureSection = () => {
                           <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://trade.mango.markets/accounts"
+                            href="https://trade.powerstreetpro.markets/accounts"
                           >
                             <Button>Start trading today</Button>
                           </a>
@@ -74,7 +74,7 @@ const FeatureSection = () => {
                       <img
                         className="-mt-20 w-full rounded-xl shadow-xl lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
                         src="../img/feature-cta2.png"
-                        alt="mango markets"
+                        alt="powerstreetpro markets"
                       />
                     </div>
                   </div>
@@ -141,7 +141,7 @@ const FeatureSection = () => {
                                 alt=""
                               />
                             </div>
-                            <div className="text-base font-bold text-mango-yellow">
+                            <div className="text-base font-bold text-powerstreetpro-green">
                               @troll_arse
                             </div>
                           </div>
@@ -155,7 +155,7 @@ const FeatureSection = () => {
                     {features.map((feature) => (
                       <div key={feature.name}>
                         <dt>
-                          <div className="flex items-center justify-center h-12 w-12 rounded-md bg-bkg-3 text-mango-yellow">
+                          <div className="flex items-center justify-center h-12 w-12 rounded-md bg-bkg-3 text-powerstreetpro-green">
                             <feature.icon
                               className="h-6 w-6"
                               aria-hidden="true"
@@ -188,17 +188,17 @@ const FeatureSection = () => {
                       More than an exchange.
                     </h2>
                     <p className="mt-4 text-xl text-gray-400">
-                      Mango gives full control and tracking over assets right
-                      from the account hub. Earn interest on deposits and borrow
-                      against collateral all in one single place.
+                      Powerstreetpro gives full control and tracking over assets
+                      right from the account hub. Earn interest on deposits and
+                      borrow against collateral all in one single place.
                     </p>
                     <div className="mt-6">
                       <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://trade.mango.markets/accounts"
+                        href="https://trade.powerstreetpro.markets/accounts"
                       >
-                        <Button>Open a 🥭 account</Button>
+                        <Button>Open an account</Button>
                       </a>
                     </div>
                   </div>
@@ -213,9 +213,9 @@ const FeatureSection = () => {
                         </p>
                       </div>
                       <div className="z-0 relative -bottom-72 -right-96 lg:-bottom-96 ">
-                        <div className="absolute bottom-4 left-8 w-450 h-450 bg-mango-yellow mix-blend-screen rounded-full filter blur-3xl opacity-5 animate-blob"></div>
-                        <div className="absolute bottom-4 w-450 h-450 bg-mango-red mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-4000"></div>
-                        <div className="absolute bottom-8 left-20 w-450 h-450 bg-mango-green mix-blend-screen rounded-full filter blur-2xl opacity-10 animate-blob animation-delay-2000"></div>
+                        <div className="absolute bottom-4 left-8 w-450 h-450 bg-powerstreetpro-green mix-blend-screen rounded-full filter blur-3xl opacity-5 animate-blob"></div>
+                        <div className="absolute bottom-4 w-450 h-450 bg-powerstreetpro-blue mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-4000"></div>
+                        <div className="absolute bottom-8 left-20 w-450 h-450 bg-powerstreetpro-olive mix-blend-screen rounded-full filter blur-2xl opacity-10 animate-blob animation-delay-2000"></div>
                       </div>
                       <footer className="mt-3">
                         <div className="flex items-center space-x-3">
@@ -226,7 +226,7 @@ const FeatureSection = () => {
                               alt=""
                             />
                           </div>
-                          <div className="text-base font-bold text-mango-yellow">
+                          <div className="text-base font-bold text-powerstreetpro-green">
                             @troll_arse
                           </div>
                         </div>
@@ -235,9 +235,9 @@ const FeatureSection = () => {
                   </div>
                   */}
                   <div className="z-0 relative -bottom-72 -right-96 lg:-bottom-96 ">
-                    <div className="absolute bottom-4 left-8 w-450 h-450 bg-mango-yellow mix-blend-screen rounded-full filter blur-3xl opacity-5 animate-blob"></div>
-                    <div className="absolute bottom-4 w-450 h-450 bg-mango-red mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-4000"></div>
-                    <div className="absolute bottom-8 left-20 w-450 h-450 bg-mango-green mix-blend-screen rounded-full filter blur-2xl opacity-10 animate-blob animation-delay-2000"></div>
+                    <div className="absolute bottom-4 left-8 w-450 h-450 bg-powerstreetpro-green mix-blend-screen rounded-full filter blur-3xl opacity-5 animate-blob"></div>
+                    <div className="absolute bottom-4 w-450 h-450 bg-powerstreetpro-blue mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-4000"></div>
+                    <div className="absolute bottom-8 left-20 w-450 h-450 bg-powerstreetpro-olive mix-blend-screen rounded-full filter blur-2xl opacity-10 animate-blob animation-delay-2000"></div>
                   </div>
                 </div>
               </div>
@@ -262,7 +262,7 @@ const FeatureSection = () => {
             <div className="z-10 bg-th-fgd-4 border border-bkg-3 bg-product-one bg-cover bg-no-repeat h-650 w-full shadow-md rounded-xl overflow-hidden mx-auto">
               <div className="py-4 px-8 mt-3">
                 <div className="flex flex-col mb-8">
-                  <h2 className="text-yellow-300 font-semibold text-xl tracking-wide mb-2">
+                  <h2 className="text-green-600 font-semibold text-xl tracking-wide mb-2">
                     You are in control.
                   </h2>
                   <p className="text-white text-opacity-50 text-lg">
@@ -277,7 +277,7 @@ const FeatureSection = () => {
             <div className="z-50 bg-th-fgd-4 border border-bkg-3 bg-product-two bg-cover bg-no-repeat h-650 w-full shadow-md rounded-xl overflow-hidden mx-auto">
               <div className="py-4 px-8 mt-3">
                 <div className="flex flex-col mb-8">
-                  <h2 className="text-yellow-300 font-semibold text-xl tracking-wide mb-2">
+                  <h2 className="text-green-600 font-semibold text-xl tracking-wide mb-2">
                     Fully customize your experience.
                   </h2>
                   <p className="text-white text-opacity-50 text-lg">
@@ -294,7 +294,7 @@ const FeatureSection = () => {
             <div className="z-10 bg-th-fgd-4 border border-bkg-3 bg-product-three bg-cover bg-no-repeat h-650 w-full shadow-md rounded-xl overflow-hidden mx-auto">
               <div className="py-4 px-8 mt-3">
                 <div className="flex flex-col mb-8">
-                  <h2 className="text-yellow-300 font-semibold text-xl tracking-wide mb-2">
+                  <h2 className="text-green-600 font-semibold text-xl tracking-wide mb-2">
                     Trade management simplified.
                   </h2>
                   <p className="text-white text-opacity-50 text-lg">
@@ -309,20 +309,15 @@ const FeatureSection = () => {
             <div className="z-10 bg-th-fgd-4 border border-bkg-3 bg-product-four bg-cover bg-no-repeat h-650 w-full shadow-md rounded-xl overflow-hidden mx-auto">
               <div className="py-4 px-8 mt-3">
                 <div className="flex flex-col mb-8">
-                  <h2 className="text-yellow-300 font-semibold text-xl tracking-wide mb-2">
+                  <h2 className="text-green-600 font-semibold text-xl tracking-wide mb-2">
                     Organically grown, fully opensource.
                   </h2>
                   <p className="text-white text-opacity-50 text-lg">
-                    Mango markets are grown organically with no pesticides,
-                    trade and manage your assets with the best in class user
-                    interface, built by traders for traders.
+                    With powerstreetpro trade and manage your assets with the
+                    best in class user interface, built by traders for traders.
                   </p>
                   <br />
-                  <a
-                    rel="noreferrer"
-                    target="_blank"
-                    href="https://github.com/blockworks-foundation/mango-ui-v3"
-                  >
+                  <a rel="noreferrer" target="_blank" href="">
                     <LinkLeft>Run it yourself locally</LinkLeft>
                   </a>
                 </div>

@@ -247,22 +247,18 @@ const CommunitySection = () => {
                   Even better together.
                 </h2>
                 <p className="mb-8 text-white text-opacity-50 leading-relaxed lg:text-2xl md:text-2xl sm:text-2xl xs:text-lg">
-                  Mango wants to merge the liquidity and usability of CeFi with
-                  the permissionless innovation of DeFi. All our work is open
-                  source for anyone to use and contribute.
+                  Powerstreetpro wants to merge the liquidity and usability of
+                  CeFi with the permissionless innovation of DeFi. All our work
+                  is open source for anyone to use and contribute.
                 </p>
                 <div className="flex flex-row justify-center">
-                  <a
-                    rel="noreferrer"
-                    target="_blank"
-                    href="https://discord.gg/2uwjsBc5yw"
-                  >
+                  <a rel="noreferrer" target="_blank" href="https://discord.gg">
                     <Button>Join discord</Button>
                   </a>
                   <a
                     rel="noreferrer"
                     target="_blank"
-                    href="https://docs.mango.markets/litepaper"
+                    href="https://docs.powerstreetpro.markets/litepaper"
                   >
                     <Link>Learn more</Link>
                   </a>
@@ -279,15 +275,15 @@ const CommunitySection = () => {
                   cta="Find us on github"
                   href="https://github.com/blockworks-foundation"
                 >
-                  All pieces of the mango protocol puzzle are completely open
-                  source. Run it, mod it, improve it, we are a community driven
-                  organization.
+                  All pieces of the powerstreetpro protocol puzzle are
+                  completely open source. Run it, mod it, improve it, we are a
+                  community driven organization.
                 </CommunityCard>
                 <CommunityCard
                   icon={<ShieldCheckIcon />}
                   title="Liquidator Program"
                   cta="Become a liquidator"
-                  href="https://gitlab.com/OpinionatedGeek/mango-explorer/-/blob/master/Quickstart.md"
+                  href=""
                 >
                   Liquidators protect the capital of lenders. They help ensure
                   the protocol funds stay safe even when the markets move
@@ -297,17 +293,17 @@ const CommunitySection = () => {
                   icon={<ScaleIcon />}
                   title="Market Making"
                   cta="Become a market maker"
-                  href="https://gitlab.com/OpinionatedGeek/mango-explorer/-/blob/master/mango/marketmaking/simplemarketmaker.py"
+                  href=""
                 >
-                  Learn about market making on the mango protocol and earn $MNGO
-                  in return for providing liquidity to the traders on Mango
-                  Markets.
+                  Learn about market making on the powerstreetpro protocol and
+                  earn $CENT in return for providing liquidity to the traders on
+                  Powerstreetpro Markets.
                 </CommunityCard>
                 <CommunityCard
                   icon={<LightBulbIcon />}
                   title="Want to help build?"
                   cta="Become a contributor"
-                  href="https://trello.com/c/0iz8GfW6/32-how-to-use-this-board"
+                  href=""
                 >
                   We always welcome new contributors! We commit to distribute
                   the largest portion of the DAO’s power and wealth to future

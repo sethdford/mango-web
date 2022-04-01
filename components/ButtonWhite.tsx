@@ -2,9 +2,9 @@ import { FunctionComponent } from 'react'
 import styled from '@emotion/styled'
 import tw from 'twin.macro'
 
-export const idleGradient = 'bg-gradient-to-r from-yellow-100 to-white'
+export const idleGradient = 'bg-gradient-to-r from-green-100 to-white'
 export const activeGradient =
-  'bg-gradient-to-bl from-yellow-300 via-primary-dark to-secondary-1-light'
+  'bg-gradient-to-bl from-green-300 via-primary-dark to-secondary-1-light'
 
 const StyledButton = styled.button<ButtonProps>`
   :before {

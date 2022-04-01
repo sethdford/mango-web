@@ -30,7 +30,7 @@ const FooterSection = () => {
   return (
     <>
       <div className="z-50 mx-auto max-w-7xl pt-0 pb-16 px-8 my-16 mt-0">
-        <div className="transform transition duration-200 ease-in-out hover:-translate-y-2 h-80 bg-bkg-2 border border-mango-orange rounded-xl shadow-md overflow-hidden lg:grid lg:grid-cols-2 lg:gap-2 mt-8 bg-bg-cta bg-cover bg-bottom bg-no-repeat">
+        <div className="transform transition duration-200 ease-in-out hover:-translate-y-2 h-80 bg-bkg-2 border border-powerstreetpro-green rounded-xl shadow-md overflow-hidden lg:grid lg:grid-cols-2 lg:gap-2 mt-8 bg-bg-cta bg-cover bg-bottom bg-no-repeat">
           <div className="pt-10 pb-12 px-6 sm:pt-16 sm:px-16 lg:py-16 lg:pr-0 xl:py-20 xl:px-20">
             <div className="lg:self-center">
               <h2 className="text-5xl font-extrabold text-white">
@@ -43,7 +43,7 @@ const FooterSection = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.mango.markets/market?name=BTC-PERP"
+                  href="https://trade.powerstreetpro.markets/market?name=BTC-PERP"
                 >
                   <ButtonWhite>Start trading now</ButtonWhite>
                 </a>
@@ -55,7 +55,7 @@ const FooterSection = () => {
             <img
               className="transform translate-x-2 translate-y-2 object-cover object-left-top sm:translate-x-12 lg:translate-y-16"
               src="../img/tilted.png"
-              alt="mango markets"
+              alt="powerstreetpro markets"
             />
           </div>
         </div>
@@ -67,7 +67,7 @@ const FooterSection = () => {
             <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
               <h2 className="inline text-3xl font-extrabold sm:block sm:text-4xl">
                 Want product news and updates?{' '}
-                <span className="text-transparent bg-clip-text bg-gradient-to-r from-mango-red via-mango-yellow to-mango-green sm:block sm:text-4xl">
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-powerstreetpro-blue via-powerstreetpro-olive to-powerstreetpro-green sm:block sm:text-4xl">
                   Sign up for our newsletter.
                 </span>
               </h2>
@@ -109,16 +109,12 @@ const FooterSection = () => {
             <div className="px-4 py-8 mx-auto">
               <div className="flex flex-wrap -mx-4 mb-8 lg:mb-16">
                 <div className="w-full lg:w-1/3 px-4 mb-12 lg:mb-0">
-                  <a className="text-gray-600 text-2xl leading-none" href="#">
-                    <img
-                      className="h-8"
-                      src="img/logo_mango.svg"
-                      alt=""
-                      width="auto"
-                    />
-                  </a>
+                  <a
+                    className="text-gray-600 text-2xl leading-none"
+                    href="#"
+                  ></a>
                   <p className="mt-5 mb-6 max-w-xs text-gray-500 leading-loose">
-                    Mango is a decentralized autonomous organization.{' '}
+                    Powerstreet Pro is a decentralized autonomous organization.{' '}
                   </p>
                   <div className="flex flex-row">
                     <a
@@ -127,15 +123,12 @@ const FooterSection = () => {
                     >
                       <img className="mx-auto" src="socials/github.svg" />
                     </a>
-                    <a
-                      className="flex h-6 w-6 m-2"
-                      href="https://discord.gg/2uwjsBc5yw"
-                    >
+                    <a className="flex h-6 w-6 m-2" href="https://discord.gg/">
                       <img className="mx-auto" src="socials/discord.svg" />
                     </a>
                     <a
                       className="flex h-6 w-6 m-2"
-                      href="https://twitter.com/mangomarkets"
+                      href="https://twitter.com/powerstreetpro"
                     >
                       <img className="mx-auto" src="socials/twitter.svg" />
                     </a>
@@ -151,7 +144,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://trade.mango.markets/"
+                            href="https://trade.powerstreetpro.markets/"
                           >
                             Spot Markets
                           </a>
@@ -159,7 +152,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://trade.mango.markets/perp/BTC"
+                            href="https://trade.powerstreetpro.markets/perp/BTC"
                           >
                             Perpetual Futures
                           </a>
@@ -167,7 +160,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://trade.mango.markets/borrow"
+                            href="https://trade.powerstreetpro.markets/borrow"
                           >
                             Decentralized Lending
                           </a>
@@ -175,7 +168,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://github.com/blockworks-foundation/mango-explorer/blob/main/docs/LiquidatorQuickstart.md"
+                            href="https://github.com/"
                           >
                             Liquidator Program
                           </a>
@@ -190,7 +183,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://docs.mango.markets/"
+                            href="https://docs.powerstreetpro.markets/"
                           >
                             Explore the docs
                           </a>
@@ -206,7 +199,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://github.com/blockworks-foundation/mango-explorer/blob/main/docs/MarketmakingIntroduction.md"
+                            href=""
                           >
                             Become a market maker
                           </a>
@@ -221,7 +214,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://discord.gg/2uwjsBc5yw"
+                            href="https://discord.gg"
                           >
                             Discord
                           </a>
@@ -229,7 +222,7 @@ const FooterSection = () => {
                         <li className="mb-4">
                           <a
                             className="text-gray-500 hover:text-gray-600 transition duration-100 ease-in-out"
-                            href="https://twitter.com/mangomarkets"
+                            href="https://twitter.com/powerstreetpro"
                           >
                             Twitter
                           </a>
@@ -241,7 +234,7 @@ const FooterSection = () => {
               </div>
               <div className="pt-8">
                 <p className="lg:text-center text-sm text-white text-opacity-20">
-                  All rights reserved &copy; Blockworks Foundation 2021
+                  All rights reserved &copy; Powerstreetpro Foundation 2021
                 </p>
               </div>
             </div>

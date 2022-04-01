@@ -48,9 +48,9 @@ const HeroSectionHome = () => {
 
                     <p className="mb-8 text-white text-opacity-50 lg:text-2xl md:text-2xl sm:text-2xl xs:text-lg">
                       Lightning fast{' '}
-                      <span className="text-yellow-300 font-bold">·</span>{' '}
+                      <span className="text-green-600 font-bold">·</span>{' '}
                       Near-zero fees{' '}
-                      <span className="text-yellow-300 font-bold">·</span>{' '}
+                      <span className="text-green-600 font-bold">·</span>{' '}
                       Permissionless
                     </p>
 
@@ -58,14 +58,14 @@ const HeroSectionHome = () => {
                       <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://trade.mango.markets"
+                        href="https://trade.powerstreetpro.markets"
                       >
                         <Button>Start trading</Button>
                       </a>
                       <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://docs.mango.markets/"
+                        href="https://docs.powerstreetpro.markets/"
                       >
                         <Link>Explore the docs</Link>
                       </a>
@@ -117,9 +117,9 @@ const HeroSectionHome = () => {
                 </div>
               </div>
               <div className="z-0 absolute -bottom-4 left-20 lg:-bottom-4 lg:left-96">
-                <div className="absolute bottom-4 left-8 w-450 h-450 bg-mango-yellow mix-blend-screen rounded-full filter blur-3xl opacity-10 animate-blob"></div>
-                <div className="absolute bottom-4 w-450 h-450 bg-mango-red mix-blend-screen rounded-full filter blur-2xl opacity-30 animate-blob animation-delay-4000"></div>
-                <div className="absolute bottom-8 left-20 w-450 h-450 bg-mango-green mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-2000"></div>
+                <div className="absolute bottom-4 left-8 w-450 h-450 bg-powerstreetpro-green mix-blend-screen rounded-full filter blur-3xl opacity-10 animate-blob"></div>
+                <div className="absolute bottom-4 w-450 h-450 bg-powerstreetpro-blue mix-blend-screen rounded-full filter blur-2xl opacity-30 animate-blob animation-delay-4000"></div>
+                <div className="absolute bottom-8 left-20 w-450 h-450 bg-powerstreetpro-olive mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-2000"></div>
               </div>
             </div>
           </main>

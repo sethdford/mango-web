@@ -60,11 +60,11 @@ const NavBarBeta = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="flex justify-between items-center py-6 md:justify-start md:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
-              <a href="https://mango.markets">
-                <span className="sr-only">Mango</span>
+              <a href="https://powerstreetpro.markets">
+                <span className="sr-only">Powerstreetpro</span>
                 <img
                   className="h-8"
-                  src="img/logo_mango.svg"
+                  src="img/logo_powerstreetpro.svg"
                   alt=""
                   width="auto"
                 />
@@ -104,7 +104,7 @@ const NavBarBeta = () => {
                   <span>Products</span>
 
                   <svg
-                    className="text-gray-400 ml-2 h-5 w-5 group-hover:text-mango-yellow transition duration-100 ease-in-out"
+                    className="text-gray-400 ml-2 h-5 w-5 group-hover:text-powerstreetpro-green transition duration-100 ease-in-out"
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -125,11 +125,11 @@ const NavBarBeta = () => {
                 >
                   <div className="w-700 grid grid-cols-2 rounded-lg border border-bkg-3 shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
                     <div className="relative grid gap-6 bg-th-bkg-3 px-5 py-6 sm:gap-8 sm:p-8">
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         Markets
                       </h3>
                       <a
-                        href="https://trade.mango.markets/"
+                        href="https://trade.powerstreetpro.markets/"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -154,14 +154,14 @@ const NavBarBeta = () => {
                             Spot Margin
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Trade BTC, ETH, SOL, SRM, and MNGO with up to 5x
+                            Trade BTC, ETH, SOL, SRM, and CENT with up to 5x
                             margin.
                           </p>
                         </div>
                       </a>
 
                       <a
-                        href="https://trade.mango.markets/perp/BTC"
+                        href="https://trade.powerstreetpro.markets/perp/BTC"
                         className="disabled -m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -191,11 +191,11 @@ const NavBarBeta = () => {
                           </p>
                         </div>
                       </a>
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         Defi
                       </h3>
                       <a
-                        href="https://trade.mango.markets/borrow"
+                        href="https://trade.powerstreetpro.markets/borrow"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -228,12 +228,12 @@ const NavBarBeta = () => {
                     </div>
 
                     <div className="relative grid gap-6 bg-th-bkg-3 px-5 py-6 sm:gap-8 sm:p-8">
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         Infrastructure
                       </h3>
 
                       <a
-                        href="https://github.com/blockworks-foundation/mango-explorer/blob/main/docs/LiquidatorQuickstart.md"
+                        href=""
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -257,7 +257,7 @@ const NavBarBeta = () => {
                             Liquidator Program
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Help safeguard the mango protocol, become a
+                            Help safeguard the powerstreetpro protocol, become a
                             decentralized liquidator.
                           </p>
                         </div>
@@ -289,13 +289,13 @@ const NavBarBeta = () => {
                             Market Making Program
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Provide liquidity and earn MNGO, become a
+                            Provide liquidity and earn CENT, become a
                             decentralized market maker.
                           </p>
                         </div>
                       </a>
 
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         MERCH
                       </h3>
                       <a
@@ -318,11 +318,11 @@ const NavBarBeta = () => {
                         </svg>
                         <div className="ml-4">
                           <p className="text-base font-medium text-white">
-                            Mango Market Caps
+                            Powerstreetpro Market Caps
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            The premier fashion choice for Mango lovers,
-                            traders, and lenders.
+                            The premier fashion choice for Powerstreetpro
+                            lovers, traders, and lenders.
                           </p>
                         </div>
                       </a>
@@ -340,7 +340,7 @@ const NavBarBeta = () => {
                   <span>Community</span>
 
                   <svg
-                    className="text-gray-400 ml-2 h-5 w-5 group-hover:text-mango-yellow"
+                    className="text-gray-400 ml-2 h-5 w-5 group-hover:text-powerstreetpro-green"
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -360,7 +360,7 @@ const NavBarBeta = () => {
                 >
                   <div className="w-700 grid grid-cols-2 rounded-lg border border-bkg-3 shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
                     <div className="relative grid gap-6 bg-th-bkg-3 px-5 py-6 sm:gap-8 sm:p-8">
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         Developers
                       </h3>
                       <a
@@ -390,11 +390,11 @@ const NavBarBeta = () => {
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
                             Start learning about, integrating, and building for
-                            the mango protocol.
+                            the powerstreetpro protocol.
                           </p>
                         </div>
                       </a>
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         Stats
                       </h3>
                       <a
@@ -463,7 +463,7 @@ const NavBarBeta = () => {
                     </div>
 
                     <div className="relative grid gap-6 bg-th-bkg-3 px-5 py-6 sm:gap-8 sm:p-8">
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         Governance
                       </h3>
 
@@ -489,16 +489,16 @@ const NavBarBeta = () => {
                         </svg>
                         <div className="ml-4">
                           <p className="text-base font-medium text-white">
-                            Mango DAO
+                            Powerstreetpro DAO
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Mango is building a decentralized ecosystem, have a
-                            stake in it.
+                            Powerstreetpro is building a decentralized
+                            ecosystem, have a stake in it.
                           </p>
                         </div>
                       </a>
                       <a
-                        href="https://forum.mango.markets/"
+                        href="https://forum.powerstreetpro.markets/"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -520,16 +520,16 @@ const NavBarBeta = () => {
 
                         <div className="ml-4">
                           <p className="text-base font-medium text-white">
-                            Mango Forum
+                            Powerstreetpro Forum
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
                             Discuss governance proposals, new listings,
-                            improvements to Mango, all in one place.
+                            improvements to Powerstreetpro, all in one place.
                           </p>
                         </div>
                       </a>
                       <a
-                        href="https://token.mango.markets"
+                        href="https://token.powerstreetpro.markets"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -551,7 +551,7 @@ const NavBarBeta = () => {
 
                         <div className="ml-4">
                           <p className="text-base font-medium text-white">
-                            Redeem your <GradientText>MNGO</GradientText>
+                            Redeem your <GradientText>CENT</GradientText>
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
                             Participated in the launch of the DAO? Redeem your
@@ -566,7 +566,7 @@ const NavBarBeta = () => {
 
               {/* 
               <a
-                href="https://docs.mango.markets/"
+                href="https://docs.powerstreetpro.markets/"
                 className="text-base font-medium text-gray-500 p-1 px-2 hover:bg-th-fgd-4 hover:text-white focus:outline-none rounded-md"
               >
                 Docs
@@ -581,7 +581,7 @@ const NavBarBeta = () => {
                   <span>Support</span>
 
                   <svg
-                    className="text-gray-400 ml-2 h-5 w-5 group-hover:text-mango-yellow"
+                    className="text-gray-400 ml-2 h-5 w-5 group-hover:text-powerstreetpro-green"
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
@@ -602,7 +602,7 @@ const NavBarBeta = () => {
                 >
                   <div className="rounded-lg border border-bkg-3 shadow-lg ring-1 ring-black ring-opacity-5 overflow-hidden">
                     <div className="relative grid gap-6 bg-th-bkg-3 px-5 py-6 sm:gap-8 sm:p-8">
-                      <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
+                      <h3 className="text-sm tracking-wide font-bold text-green-600 uppercase">
                         Social
                       </h3>
                       <a
@@ -662,13 +662,13 @@ const NavBarBeta = () => {
                     </div>
                     <div className="px-5 py-5 bg-th-fgd-4 -mt-1 sm:px-8 sm:py-8">
                       <div>
-                        <h3 className="text-sm tracking-wide font-bold text-yellow-300 uppercase">
-                          Mango Guides
+                        <h3 className="text-sm tracking-wide font-bold text-green-200 uppercase">
+                          Powerstreetpro Guides
                         </h3>
                         <ul className="mt-4 space-y-4">
                           <li className="text-base truncate">
                             <a
-                              href="https://docs.mango.markets/tutorials/creating-a-wallet"
+                              href="https://docs.powerstreetpro.markets/tutorials/creating-a-wallet"
                               className="font-medium text-white hover:text-gray-400 transition duration-100 ease-in-out"
                             >
                               Setting up a wallet
@@ -677,21 +677,21 @@ const NavBarBeta = () => {
 
                           <li className="text-base truncate">
                             <a
-                              href="https://docs.mango.markets/tutorials/getting-started"
+                              href="https://docs.powerstreetpro.markets/tutorials/getting-started"
                               className="font-medium text-white hover:text-gray-400 transition duration-100 ease-in-out"
                             >
-                              Getting started with Mango 🥭
+                              Getting started with Powerstreetpro
                             </a>
                           </li>
                         </ul>
                       </div>
                       <div className="mt-5 text-sm">
                         <a
-                          href="https://docs.mango.markets/margin-trading/overview"
-                          className="font-bold text-transparent bg-clip-text bg-mango-orange hover:bg-mango-yellow transition duration-100 ease-in-out"
+                          href="https://docs.powerstreetpro.markets/margin-trading/overview"
+                          className="font-bold text-transparent bg-clip-text  bg-powerstreetpro-olive hover:bg-powerstreetpro-blue-gray  transition duration-100 ease-in-out"
                         >
                           {' '}
-                          Learn more about the Mango protocol{' '}
+                          Learn more about the Powerstreet protocol{' '}
                           <span aria-hidden="true">&rarr;</span>
                         </a>
                       </div>
@@ -701,18 +701,18 @@ const NavBarBeta = () => {
               </div>
               {/* 
               <a
-                href="https://dao.mango.markets"
+                href="https://dao.powerstreetpro.markets"
                 className="text-base font-medium text-gray-500 p-1 px-2 hover:bg-th-fgd-4 focus:outline-none rounded-md"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <div className="flex flex-row">
-                  <p>Mango DAO</p>
+                  <p>Powerstreetpro DAO</p>
                 </div>
               </a>
 
               <a
-                href="https://token.mango.markets"
+                href="https://token.powerstreetpro.markets"
                 className="text-base font-medium text-gray-500 p-1 px-2 hover:bg-th-fgd-4 focus:outline-none rounded-md"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -728,7 +728,7 @@ const NavBarBeta = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.mango.markets"
+                  href="https://trade.powerstreetpro.markets"
                 >
                   <Button>Start trading</Button>
                 </a>
@@ -755,7 +755,7 @@ const NavBarBeta = () => {
                 <div>
                   <img
                     className="h-8 ml-1"
-                    src="img/logo_mango.svg"
+                    src="img/logo_powerstreetpro.svg"
                     alt=""
                     width="auto"
                   />
@@ -970,7 +970,7 @@ const NavBarBeta = () => {
                   </a>
                 </nav>
               </div>
-              <h3 className="py-5 text-sm tracking-wide font-medium text-yellow-300 uppercase">
+              <h3 className="py-5 text-sm tracking-wide font-medium text-green-600 uppercase">
                 Contact Us
               </h3>
               <div className="grid grid-cols-2 gap-y-4 gap-x-8">

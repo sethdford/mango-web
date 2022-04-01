@@ -54,16 +54,17 @@ const LendSection = () => {
               </h2>
               <p className="mb-8 text-white text-opacity-50 leading-relaxed lg:text-2xl md:text-2xl sm:text-2xl xs:text-lg">
                 Earn interest on deposits and take out fully collateralized
-                loans against existing assets. The mango protocol&apos;s risk
-                engine allows you to withdraw borrowed capital when you need.
+                loans against existing assets. The powerstreetpro
+                protocol&apos;s risk engine allows you to withdraw borrowed
+                capital when you need.
               </p>
               <div className="flex flex-row justify-center">
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.mango.markets/borrow"
+                  href="https://trade.powerstreetpro.markets/borrow"
                 >
-                  <Button>Open a 🥭 account</Button>
+                  <Button>Open an Account</Button>
                 </a>
                 <a rel="noreferrer" target="_blank" href="/markets">
                   <Link>Learn more</Link>
@@ -97,7 +98,7 @@ const LendSection = () => {
               <Marquee gradient={false}>
                 <div className="z-10 mt-4 flex flex-wrap text-left">
                   <LendCard {...propsFor('USDC')} />
-                  <LendCard {...propsFor('MNGO')} />
+                  <LendCard {...propsFor('CENT')} />
                   <LendCard {...propsFor('BTC')} />
                   <LendCard {...propsFor('ETH')} />
                   <LendCard {...propsFor('SOL')} />
@@ -122,9 +123,9 @@ const LendSection = () => {
               </Marquee>
             </div>
             <div className="z-0 relative -bottom-72 -left-8 lg:-bottom-96 ">
-              <div className="absolute bottom-4 left-8 w-450 h-450 bg-mango-yellow mix-blend-screen rounded-full filter blur-3xl opacity-10 animate-blob"></div>
-              <div className="absolute bottom-4 w-450 h-450 bg-mango-red mix-blend-screen rounded-full filter blur-2xl opacity-30 animate-blob animation-delay-4000"></div>
-              <div className="absolute bottom-8 left-20 w-450 h-450 bg-mango-green mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-2000"></div>
+              <div className="absolute bottom-4 left-8 w-450 h-450 bg-powerstreetpro-green mix-blend-screen rounded-full filter blur-3xl opacity-10 animate-blob"></div>
+              <div className="absolute bottom-4 w-450 h-450 bg-powerstreetpro-blue mix-blend-screen rounded-full filter blur-2xl opacity-30 animate-blob animation-delay-4000"></div>
+              <div className="absolute bottom-8 left-20 w-450 h-450 bg-powerstreetpro-olive mix-blend-screen rounded-full filter blur-2xl opacity-20 animate-blob animation-delay-2000"></div>
             </div>
           </div>
         </section>

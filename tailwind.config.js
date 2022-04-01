@@ -79,10 +79,6 @@ module.exports = {
         'fgd-3': '#B9B5CE',
         'fgd-4': '#706C81',
 
-        'powerstreetpro-green': {
-          DEFAULT: '#AFD803',
-          dark: '#6CBF00',
-        },
         'powerstreetpro-blue': '#1B6094',
         'powerstreetpro-blue-gray': '#7A9FA1',
         'powerstreetpro-olive': '#BAC47A',

@@ -71,7 +71,7 @@ const TradeSection = () => {
                   <a
                     rel="noreferrer"
                     target="_blank"
-                    href="https://trade.mango.markets/"
+                    href="https://trade.powerstreetpro.com/"
                   >
                     <Button>Start trading</Button>
                   </a>

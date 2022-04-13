@@ -111,7 +111,7 @@ const LendSection = () => {
                 <a
                   rel="noreferrer"
                   target="_blank"
-                  href="https://trade.mango.markets/borrow"
+                  href="https://trade.powerstreetpro.com/borrow"
                 >
                 <div className="min-w-full flex-1 bg-th-fgd-4 border border-bkg-3 shadow-md rounded-xl py-4 px-4 h-auto m-2 transform transition duration-200 ease-in-out hover:-translate-y-2 hover:shadow-lg hover:bg-bkg-3">
                   <p className="leading-tight font-extrabold font-heading text-5xl text-center">16+</p>

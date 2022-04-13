@@ -364,7 +364,7 @@ const NavBarBeta = () => {
                         Developers
                       </h3>
                       <a
-                        href="https://docs.mango.markets/"
+                        href="https://docs.powerstreetpro.com/"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -398,7 +398,7 @@ const NavBarBeta = () => {
                         Stats
                       </h3>
                       <a
-                        href="https://trade.mango.markets/stats"
+                        href="https://trade.powerstreetpro.com/stats"
                         className="disabled -m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -468,7 +468,7 @@ const NavBarBeta = () => {
                       </h3>
 
                       <a
-                        href="https://dao-beta.mango.markets"
+                        href="https://dao-beta.powerstreetpro.com"
                         className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                       >
                         <svg
@@ -789,7 +789,7 @@ const NavBarBeta = () => {
               <div className="mt-6">
                 <nav className="grid gap-y-8">
                   <a
-                    href="https://trade.mango.markets"
+                    href="https://trade.powerstreetpro.com"
                     className="-m-3 p-3 flex items-center rounded-md hover:bg-th-bkg-4 transition duration-100 ease-in-out"
                   >
                     <svg
@@ -814,7 +814,7 @@ const NavBarBeta = () => {
                   </a>
 
                   <a
-                    href="https://trade.mango.markets/perp/BTC"
+                    href="https://trade.powerstreetpro.com/perp/BTC"
                     className="disabled -m-3 p-3 flex items-center rounded-md hover:bg-th-bkg-4 transition duration-100 ease-in-out"
                   >
                     <svg
@@ -839,7 +839,7 @@ const NavBarBeta = () => {
                   </a>
 
                   <a
-                    href="https://trade.mango.markets/borrow"
+                    href="https://trade.powerstreetpro.com/borrow"
                     className="-m-3 p-3 flex items-center rounded-md hover:bg-th-bkg-4 transition duration-100 ease-in-out"
                   >
                     <svg
@@ -915,7 +915,7 @@ const NavBarBeta = () => {
                     </div>
                   </a>
                   <a
-                    href="https://docs.mango.markets/"
+                    href="https://docs.powerstreetpro.com/"
                     className="text-base font-medium text-white hover:bg-th-bkg-4 transition duration-100 ease-in-out"
                   >
                     <div className="flex flex-row">
@@ -943,7 +943,7 @@ const NavBarBeta = () => {
                     </div>
                   </a>
                   <a
-                    href="https://dao-beta.mango.markets"
+                    href="https://dao-beta.powerstreetpro.com"
                     className="-m-3 p-3 flex items-start rounded-lg hover:bg-th-fgd-4 transition duration-100 ease-in-out"
                   >
                     <svg

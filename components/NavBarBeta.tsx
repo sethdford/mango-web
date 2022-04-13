@@ -455,8 +455,8 @@ const NavBarBeta = () => {
                             Protocol Status <MangoPill>SOON</MangoPill>
                           </div>
                           <p className="mt-1 text-sm text-gray-500">
-                            Uptime, API status, check to make sure Mango is
-                            running.
+                            Uptime, API status, check to make sure
+                            PowerstreetPro is running.
                           </p>
                         </div>
                       </a>
